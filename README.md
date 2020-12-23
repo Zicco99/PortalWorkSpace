@@ -31,11 +31,11 @@ Piccolo progettino che implementa dei desktop paralleli per gestire meglio i fil
 Si può aggiungere una funzionalità settare un comando per la shell globale :   **portal** "parallel desktop"
   
   -apri il file "conf.sh" e modifica la riga (@ cd /home/chilledpanda/PortalWorkSpace) con 
-   @ cd "PATH DELLA DIRECTORY DI PARALLEL DESKTOPS"
+   **@ cd "PATH DELLA DIRECTORY DI PARALLEL DESKTOPS"**
   
   -apri la shell e modifica gedit ~/.bashrc (bootstrap della shell)
   
-  -aggiungi a fine file **source /home/chilledpanda/PortalWorkSpace/command.sh**
+  -aggiungi a fine file **source "PATH DELLA DIRECTORY DI PARALLEL DESKTOPS"**
   
   
 
