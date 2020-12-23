@@ -1,6 +1,6 @@
 # PortalWorkSpace
 
-Piccolo progettino che implementare dei desktop paralleli per gestire meglio i file sul desktop.
+Piccolo progettino che implementa dei desktop paralleli per gestire meglio i file sul desktop.
 
 **Come usarlo:**
 - usa il makefile per compilare : "make"
