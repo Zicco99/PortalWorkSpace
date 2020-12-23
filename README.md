@@ -5,7 +5,7 @@ Piccolo progettino che implementare dei desktop paralleli per gestire meglio i f
 **Come usarlo:**
 - usa il makefile per compilare : "make"
 - nella prima esecuzione setta il DB per implementare la permanenza della configurazione (configurazione guidata CLI)
-- dalla seconda esecuzione si può usare "make desk="<fold>" execute" dove fold è una cartella all'interno della cartella dei parallel desktops
+- dalla seconda esecuzione si può usare "make desk="fold" execute" dove fold è una cartella all'interno della cartella dei parallel desktops
 
 **Per creare un desktop parallelo :**
 - crea una cartella nella cartella dei parallel desktop settata alla prima configurazione
@@ -28,7 +28,7 @@ Piccolo progettino che implementare dei desktop paralleli per gestire meglio i f
 
 //////////CLI Aggiuntivo///////////////
 
-Si può aggiungere una funzionalità settare un comando per la shell globale **portal** <parallel desktop>
+Si può aggiungere una funzionalità settare un comando per la shell globale **portal** "parallel desktop"
   
   -apri il file "conf.sh" e modifica la riga (@ cd /home/chilledpanda/PortalWorkSpace) con 
    @ cd <PATH DELLA DIRECTORY DI PARALLEL DESKTOPS>
