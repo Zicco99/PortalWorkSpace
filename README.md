@@ -31,7 +31,7 @@ Piccolo progettino che implementare dei desktop paralleli per gestire meglio i f
 Si può aggiungere una funzionalità settare un comando per la shell globale :   **portal** "parallel desktop"
   
   -apri il file "conf.sh" e modifica la riga (@ cd /home/chilledpanda/PortalWorkSpace) con 
-   @ cd <PATH DELLA DIRECTORY DI PARALLEL DESKTOPS>
+   @ cd "PATH DELLA DIRECTORY DI PARALLEL DESKTOPS"
   
   -apri la shell e modifica gedit ~/.bashrc (bootstrap della shell)
   
